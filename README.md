@@ -3,20 +3,31 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory & PowerShell</b>
-  - [Active Directory Testing Environment with PowerShell](https://github.com/nwain2/ADTestingEnvironment)
+  - [AD Testing Environment creation, edit users with PowerShell](https://github.com/nwain2/ADTestingEnvironment)
+- <b>Azure SIEM Mapping with Cyber Attacks</b>
+  - [Microsoft Azure SIEM Mapping with Honeypot](https://github.com/nwain2/ADTestingEnvironment)
+- <b>REST API with JavaScript</b>
+  - [REST API creation with Node.js and Express,js](https://github.com/nwain2/ADTestingEnvironment)
+- <b>File Integrity Monitor Build</b>
+  - [FIM creation with Hash Algorithms](https://github.com/nwain2/ADTestingEnvironment)
+- <b>Nessus Vulnerabilitty Management Project</b>
+  - [Tenable.io Nessus Essentials Vulnerability Management Scanner Setup](https://github.com/nwain2/ADTestingEnvironment)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nwain2/ADTestingEnvironment)
 
 <h2>📺 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/nwain2/ADTestingEnvironment)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nwain2/ADTestingEnvironment)
 
 <h2>📄 Certifications</h2>
+
+- <b>Offensive Security Web Assessor (OSWA)</b>
+- <b>Certificate of Cloud Security Knowledge (CCSK) - CSA</b>
+- <b>Google Chronicle SOAR Analyst</b>
+- <b>Google Chronicle SIEM Fundamentals</b>
 
 <h2> 🤳 Connect with me:</h2>
 
