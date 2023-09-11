@@ -13,14 +13,13 @@
 - <b>Nessus Vulnerabilitty Management Project</b>
   - [Tenable.io Nessus Essentials Vulnerability Management Scanner Setup](https://github.com/nwain2/ADTestingEnvironment)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nwain2/ADTestingEnvironment)
+  - [](https://github.com/nwain2/ADTestingEnvironment)
 
 <h2>📺 Software Development Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/nwain2/ADTestingEnvironment)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nwain2/ADTestingEnvironment)
+- <b>PHP</b>
+- <b>Java</b>
 
 <h2>📄 Certifications</h2>
 
