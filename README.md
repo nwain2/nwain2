@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick <br/><a href="https://github.com/nwain2">Seciurity Engineer</a>, <a href="https://www.linkedin.com/in/nicholas-wainwright2">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Software Developer</a></h1>
+<h1>Hi, I'm Nick <br/><a href="https://github.com/nwain2">Seciurity Engineer</a>, <a href="https://www.linkedin.com/in/nicholas-wainwright2">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor"> and Software Developer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
