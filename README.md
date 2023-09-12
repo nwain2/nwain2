@@ -14,8 +14,7 @@
   - [Tenable.io Nessus Essentials Vulnerability Management Scanner Setup](https://github.com/nwain2/ADTestingEnvironment)
 - <b>OpenVAS Vulnerability Management Environment</b>
   - [Vulnerability Management Lab with OpenVAS Services](https://github.com/nwain2/ADTestingEnvironment)
-- <b>Python</b>
-  - [](https://github.com/nwain2/ADTestingEnvironment)
+
 
 <h2>📺 Software Development Projects:</h2>
 
